@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "array": "cpp",
+        "vector": "cpp",
+        "string_view": "cpp",
+        "initializer_list": "cpp",
+        "utility": "cpp",
+        "deque": "cpp",
+        "iosfwd": "cpp"
+    }
+}
